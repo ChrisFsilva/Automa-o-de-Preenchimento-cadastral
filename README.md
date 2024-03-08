@@ -34,7 +34,7 @@ O layout da aplicação está disponível no LinkedIn:
 </a>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="https://www.linkedin.com/in/chris-f-silva/" title="#moments-automacao" src="https://media.licdn.com/dms/image/D4D2DAQFKJLTQMo1J0Q/profile-treasury-image-shrink_800_800/0/1703905254094?e=1705874400&v=beta&t=WrgsgezB5HhRPBuT6sKw80Uhrliq7PA9MLLAq3CGgto" />
+  <img alt="https://www.linkedin.com/in/chris-f-silva/" title="#moments-automacao" src="https://avatars.githubusercontent.com/u/131322948?v=4" />
 </p>
 
 ---
