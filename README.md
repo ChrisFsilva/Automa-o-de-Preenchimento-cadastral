@@ -20,7 +20,7 @@ Tabela de conteúdos
 ## 💻 Sobre o projeto
 
   * Situação
-- Preecher multiplos Formulário em looping via sistema web
+- Preecher multiplos Formulário em looping via sistema web utilizando codigo Phyton e banco de dados em CVS
 
  
 ---
