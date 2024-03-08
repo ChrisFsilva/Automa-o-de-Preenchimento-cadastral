@@ -55,7 +55,7 @@ Devido ao conteúdo sensivel presente na codificação, os códigos responsaveis
 ```bash
 
 # Clone de repositorio
-- Run extesão Phuton do Visual studio
+- Run extesão Python do Visual studio
 
 
 
